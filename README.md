@@ -1,2 +1,2 @@
-# Engeto_projekt-_1
+# Engeto_projekt_1
 projekt č. 1
